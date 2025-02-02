@@ -1,1 +1,2 @@
 Not dosyasında master branch'inde ilk yazımı yazıyorum.
+Features branchi içerisinden yeni yazımı yazdım.
